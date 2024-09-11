@@ -1,0 +1,14 @@
+C:\Users\KIRITO RINCON\OneDrive\Documentos\proyectosiete\practica3\bin\Debug\net8.0\practica3.exe
+C:\Users\KIRITO RINCON\OneDrive\Documentos\proyectosiete\practica3\bin\Debug\net8.0\practica3.deps.json
+C:\Users\KIRITO RINCON\OneDrive\Documentos\proyectosiete\practica3\bin\Debug\net8.0\practica3.runtimeconfig.json
+C:\Users\KIRITO RINCON\OneDrive\Documentos\proyectosiete\practica3\bin\Debug\net8.0\practica3.dll
+C:\Users\KIRITO RINCON\OneDrive\Documentos\proyectosiete\practica3\bin\Debug\net8.0\practica3.pdb
+C:\Users\KIRITO RINCON\OneDrive\Documentos\proyectosiete\practica3\obj\Debug\net8.0\practica3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRITO RINCON\OneDrive\Documentos\proyectosiete\practica3\obj\Debug\net8.0\practica3.AssemblyInfoInputs.cache
+C:\Users\KIRITO RINCON\OneDrive\Documentos\proyectosiete\practica3\obj\Debug\net8.0\practica3.AssemblyInfo.cs
+C:\Users\KIRITO RINCON\OneDrive\Documentos\proyectosiete\practica3\obj\Debug\net8.0\practica3.csproj.CoreCompileInputs.cache
+C:\Users\KIRITO RINCON\OneDrive\Documentos\proyectosiete\practica3\obj\Debug\net8.0\practica3.dll
+C:\Users\KIRITO RINCON\OneDrive\Documentos\proyectosiete\practica3\obj\Debug\net8.0\refint\practica3.dll
+C:\Users\KIRITO RINCON\OneDrive\Documentos\proyectosiete\practica3\obj\Debug\net8.0\practica3.pdb
+C:\Users\KIRITO RINCON\OneDrive\Documentos\proyectosiete\practica3\obj\Debug\net8.0\practica3.genruntimeconfig.cache
+C:\Users\KIRITO RINCON\OneDrive\Documentos\proyectosiete\practica3\obj\Debug\net8.0\ref\practica3.dll

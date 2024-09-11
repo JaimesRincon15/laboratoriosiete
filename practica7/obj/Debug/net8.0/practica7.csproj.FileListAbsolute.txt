@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\proyectosiete\practica7\bin\Debug\net8.0\practica7.exe
+C:\Users\Administrador\Documents\proyectosiete\practica7\bin\Debug\net8.0\practica7.deps.json
+C:\Users\Administrador\Documents\proyectosiete\practica7\bin\Debug\net8.0\practica7.runtimeconfig.json
+C:\Users\Administrador\Documents\proyectosiete\practica7\bin\Debug\net8.0\practica7.dll
+C:\Users\Administrador\Documents\proyectosiete\practica7\bin\Debug\net8.0\practica7.pdb
+C:\Users\Administrador\Documents\proyectosiete\practica7\obj\Debug\net8.0\practica7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\proyectosiete\practica7\obj\Debug\net8.0\practica7.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\proyectosiete\practica7\obj\Debug\net8.0\practica7.AssemblyInfo.cs
+C:\Users\Administrador\Documents\proyectosiete\practica7\obj\Debug\net8.0\practica7.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\proyectosiete\practica7\obj\Debug\net8.0\practica7.dll
+C:\Users\Administrador\Documents\proyectosiete\practica7\obj\Debug\net8.0\refint\practica7.dll
+C:\Users\Administrador\Documents\proyectosiete\practica7\obj\Debug\net8.0\practica7.pdb
+C:\Users\Administrador\Documents\proyectosiete\practica7\obj\Debug\net8.0\practica7.genruntimeconfig.cache
+C:\Users\Administrador\Documents\proyectosiete\practica7\obj\Debug\net8.0\ref\practica7.dll
